@@ -248,6 +248,10 @@ nav {
 footer {
     padding: 1em;
     display: flex;
+    flex-direction: column-reverse;
     justify-content: space-between;
     align-items: center;
+}
+footer a {
+    text-decoration: none;
 }
