@@ -242,6 +242,9 @@ nav {
     .scripture {
         font-size: 1.5em;
         width: 90%;
+        position: sticky;
+        top: 30vh;
+        height: 90vh;
     }
 }
 
